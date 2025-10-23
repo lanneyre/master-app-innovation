@@ -1,0 +1,5 @@
+{
+  "name": "Generateur de Ressources Pédagogiques IA",
+  "description": "Une application pour transformer du contenu source en ressources pédagogiques multimodales (quiz, études de cas, etc.) en utilisant l'IA. L'application respecte la rigueur scientifique, applique la transposition didactique et adapte la complexité selon la taxonomie de Bloom.",
+  "requestFramePermissions": []
+}
